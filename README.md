@@ -24,3 +24,10 @@ Given a phone number. Write a function to clean it up, so it is valid. The rules
 - If the phone number contains + symbol not as the first character, consider it as a badnumber.
 
 [checkNumber.js](checkNumber.js)
+
+# 6. Delet element from strin
+
+Write a function which receives two strings and removes appearances of the second string from the
+first one.
+
+[delElStr.js](delElStr.js)
