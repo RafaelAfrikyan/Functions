@@ -1,6 +1,3 @@
-// Write a function, which will receive a number between 0 to 999,999 and spell out that number in
-// English.
-
 let givenNumber = "123567";
 
 function printInEnglish(number) {
@@ -68,77 +65,8 @@ function printInEnglish(number) {
       return "eighty";
     case 90:
       return "ninety";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 18:
-      return "thirteen";
-    case 19:
-      return "thirteen";
-    case 20:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
-    case 21:
-      return "thirteen";
   }
 }
-
 let result = printInEnglish(96);
 
 console.log(result);
