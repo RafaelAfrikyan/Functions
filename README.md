@@ -47,6 +47,12 @@ the elements of the given array which are larger than the given number.
 
 [findLargestDigits.js](findLargestDigits.js)
 
+# 11. Filter numbers by even digits
+
+Write a function, which receives two numbers as arguments and finds all numbers between them such that each digit of the number is even. The numbers obtained should be printed in a comma- separated sequence on a single line.
+
+[filterNumber.js](filterNumber.js)
+
 # 12. Numbers in english
 
 Write a function, which will receive a number between 0 to 999,999 and spell out that number in
