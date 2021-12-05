@@ -25,6 +25,12 @@ Given a phone number. Write a function to clean it up, so it is valid. The rules
 
 [checkNumber.js](checkNumber.js)
 
+# 4. Find words with tha same latters
+
+Given a word and a list of possible anagrams, select the correct sublist.
+
+[includeLatter.js](includeLatter.js)
+
 # 6. Delet element from strin
 
 Write a function which receives two strings and removes appearances of the second string from the
