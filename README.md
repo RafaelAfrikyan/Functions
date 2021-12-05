@@ -1,17 +1,17 @@
-## 1. Odd or even
+# 1. Odd or even
 
 Given an array of numbers. Write a function to separate odd and even numbers in different arrays.
 
 [OddAndEven.js](OddAndEven.js)
 
-## 2. Mathematic operation
+# 2. Mathematic operation
 
 Write a function that calculates sum, difference, multiplication and division between given array
 elements depending on passed operation symbol. Write appropriate function for each operation.
 
 [mathOperation.js](mathOperation.js)
 
-## 3. Check numbers
+# 3. Check numbers
 
 Given a phone number. Write a function to clean it up, so it is valid. The rules are as follows:
 
@@ -65,3 +65,10 @@ Write a function, which will receive a number between 0 to 999,999 and spell out
 English.
 
 [numberInEnglis.js](numberInEnglis.js)
+
+# 13. Playing woth loops
+
+Write a JavaScript function to get all possible subsets of length 3 of the given array. Assume that all
+elements in the array are unique.
+
+[playLoop.js](playLoop.js)
