@@ -32,10 +32,17 @@ first one.
 
 [delElStr.js](delElStr.js)
 
-## 8. Finde longest word in sentence
+# 8. Find longest word in sentence
 
 Write a function that accepts a string(a sentence) as a parameter and finds the longest word within
 the string. If there are several words which are the longest ones, print the last word(words can be
 separated by space, comma or hyphen).
 
 [findLongestWord.js](findLongestWord.js)
+
+# 9. Find largest digits on array
+
+Write a function which receives an array and a number as arguments and returns a new array from
+the elements of the given array which are larger than the given number.
+
+[findLargestDigits.js](findLargestDigits.js)
