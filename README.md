@@ -31,3 +31,11 @@ Write a function which receives two strings and removes appearances of the secon
 first one.
 
 [delElStr.js](delElStr.js)
+
+## 8. Finde longest word in sentence
+
+Write a function that accepts a string(a sentence) as a parameter and finds the longest word within
+the string. If there are several words which are the longest ones, print the last word(words can be
+separated by space, comma or hyphen).
+
+[findLongestWord.js](findLongestWord.js)
