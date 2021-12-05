@@ -46,3 +46,10 @@ Write a function which receives an array and a number as arguments and returns a
 the elements of the given array which are larger than the given number.
 
 [findLargestDigits.js](findLargestDigits.js)
+
+# 12. Numbers in english
+
+Write a function, which will receive a number between 0 to 999,999 and spell out that number in
+English.
+
+[numberInEnglish.js](numberInEnglish.js)
